@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Bufferizzazione/Assignment - Bufferizzazione.iml" filepath="$PROJECT_DIR$/Assignment - Bufferizzazione/Assignment - Bufferizzazione.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Conteggio occorrenze/Assignment - Conteggio occorrenze.iml" filepath="$PROJECT_DIR$/Assignment - Conteggio occorrenze/Assignment - Conteggio occorrenze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Dungeon Adventures/Assignment - Dungeon Adventures.iml" filepath="$PROJECT_DIR$/Assignment - Dungeon Adventures/Assignment - Dungeon Adventures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Gestione Conti Correnti/Assignment - Gestione Conti Correnti.iml" filepath="$PROJECT_DIR$/Assignment - Gestione Conti Correnti/Assignment - Gestione Conti Correnti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Gestione Laboratorio/Assignment - Gestione Laboratorio.iml" filepath="$PROJECT_DIR$/Assignment - Gestione Laboratorio/Assignment - Gestione Laboratorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - NIO Echo Server/Assignment - NIO Echo Server.iml" filepath="$PROJECT_DIR$/Assignment - NIO Echo Server/Assignment - NIO Echo Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Threadpool e files/Assignment - Threadpool e files.iml" filepath="$PROJECT_DIR$/Assignment - Threadpool e files/Assignment - Threadpool e files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Time Server/Assignment - Time Server.iml" filepath="$PROJECT_DIR$/Assignment - Time Server/Assignment - Time Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Ufficio Postale/Assignment - Ufficio Postale.iml" filepath="$PROJECT_DIR$/Assignment - Ufficio Postale/Assignment - Ufficio Postale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment - Weblog/Assignment - Weblog.iml" filepath="$PROJECT_DIR$/Assignment - Weblog/Assignment - Weblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code.iml" filepath="$PROJECT_DIR$/Code.iml" />
+    </modules>
+  </component>
+</project>
